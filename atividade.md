@@ -12,3 +12,4 @@
 * Imagens
 * Apresentara um link de navegaçao para as paginas 
 * Botao pra mudar a cor do fundo
+* aprende a usa a linguagem
